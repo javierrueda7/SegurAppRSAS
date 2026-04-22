@@ -116933,7 +116933,7 @@ q.push(B.be)
 s=A.eL(q,e,e,e,e,e,e,e,s)
 q=f.a.c!=null
 p=q?e:"Auto"
-q=f.oY("Identificaci\xf3n y vigencia",A.a([A.aF(A.a([A.ae(f.agJ("C\xf3digo *",f.y,p,!0,q,!0),e,110),B.b1,A.aR(f.agG("N\xfamero de p\xf3liza",f.z),3),B.b1,A.aR(f.W4("F. expedici\xf3n",f.Q,f.bB,new A.aPH(f)),2),B.b1,A.aR(f.W5("F. inicio",f.as,f.bw,new A.aPI(f),!0),2),B.b1,A.aR(f.W4("F. fin *",f.at,f.S,new A.aPJ(f)),2)],r),B.F,B.f,B.i)],r))
+q=f.oY("Identificaci\xf3n y vigencia",A.a([A.aF(A.a([A.ae(f.agJ("C\xf3digo *",f.y,p,!0,q,!0),e,110),B.b1,A.aR(f.agG("N\xfamero de p\xf3liza",f.z),3),B.b1,A.aR(f.W5("F. inicio",f.as,f.bw,new A.aPH(f),!0),2),B.b1,A.aR(f.W4("F. fin *",f.at,f.S,new A.aPI(f)),2),B.b1,A.aR(f.W4("F. expedici\xf3n",f.Q,f.bB,new A.aPJ(f)),2)],r),B.F,B.f,B.i)],r))
 p=f.p3
 p=A.aR(A.rS(e,new A.aPU(),e,f.bF,e,"Aseguradora *",new A.aQ4(f),e,new A.aQf(),p,t.LN),3)
 o=f.p4
@@ -117134,13 +117134,13 @@ A.aPq.prototype={
 $0(){return this.a.y2=this.b},
 $S:0}
 A.aPH.prototype={
-$1(a){return this.a.bB=a},
-$S:84}
-A.aPI.prototype={
 $1(a){return this.a.bw=a},
 $S:84}
-A.aPJ.prototype={
+A.aPI.prototype={
 $1(a){return this.a.S=a},
+$S:84}
+A.aPJ.prototype={
+$1(a){return this.a.bB=a},
 $S:84}
 A.aPU.prototype={
 $1(a){return a.b},
